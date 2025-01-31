@@ -8,11 +8,13 @@ I am skilled in SpringBoot, Django and React
 
 * 🌍  I'm based in Indore, Madya Pradesh, India
 * 🖥️  See my portfolio at [my site](http://devang69.vercel.app)
-* ✉️  You can contact me at [devang609official@gmail.com](mailto:devang609official@gmail.com)
-* 🚀  I'm currently working on [NavGo](http://navgo-svvvbus.vercel.app)
+* ✉️  You can contact me on my [mail](mailto:devang609official@gmail.com)
+* 🚀  I'm currently working on [NavGo](http://navgo-svvvbus.vercel.app) for [Abhyudaya Coding Club™](https://abhyudayacodingclub.vercel.app/)
 * 🧠  I'm learning Supabase
 * 🤝  I'm open to collaborating on SpringBoot and Django
 * ⚡  I also have decent communication and leadership skills.
+
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devang-sharma609&theme=github_dark)
 
 ### Skills
 
