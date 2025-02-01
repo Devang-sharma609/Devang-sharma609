@@ -14,7 +14,6 @@ I am skilled in SpringBoot, Django and React
 * 🤝  I'm open to collaborating on SpringBoot and Django
 * ⚡  I also have decent communication and leadership skills.
 
-
 ### Skills
 
 <p align="left">
