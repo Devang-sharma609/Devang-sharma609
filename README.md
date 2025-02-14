@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **SpringBoot and Django**
 
-- 👨‍💻 All of my projects are available on [my site](devang69.vercel.app).
+- 👨‍💻 All of my projects are available on [my site](https://devang69.vercel.app/).
 
 - 💬 Ask me about **React, Django and SpringBoot**
 
