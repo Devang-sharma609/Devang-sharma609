@@ -3,7 +3,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,react,ts,js,nextjs,tailwind,supabase,git,materialui,npm,postgres,vercel,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,react,nextjs,js,supabase,git,vercel)](https://skillicons.dev)
 
 ### Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devang-sharma-88aa84288/)
